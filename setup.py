@@ -9,7 +9,7 @@ except(IOError, ImportError):
 
 setup(
     name='ytelapi',
-    version='3.1.2',
+    version='3.1.3',
     description='Ytel API version 3.1.2',
     long_description=long_description,
     author='APIMatic SDK Generator',
